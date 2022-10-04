@@ -1,0 +1,1 @@
+# -generate-10-acending-number-in-given-range-in-aaray
